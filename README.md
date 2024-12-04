@@ -1,4 +1,4 @@
-# Education Inequality
+# Inequality in Education
 As a part of my internship program at IBM in collaboration with CSRBOX, I undertook a project titled, Inequality in Education.
 * This project delves into the critical issue of unequal 
 access to quality education across the globe, aligning with the United Nations' 
